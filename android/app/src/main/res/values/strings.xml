@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">freekaro</string>  
+   <string name="facebook_app_id">2976616815987029</string>  
+   <string name="fb_login_protocol_scheme">fb2976616815987029</string>  
+    <string name="default_notification_channel_id" translatable="false">channel_id_1</string>
+</resources>

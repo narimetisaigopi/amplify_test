@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "257657970017",
+    "project_id": "amplify-d6b35",
+    "storage_bucket": "amplify-d6b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257657970017:android:06c08eeb637bd80b2e3920",
+        "android_client_info": {
+          "package_name": "com.amplify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257657970017-6rtm6otnnlgvn3b2n77v91kuprd5qtqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amplify",
+            "certificate_hash": "a0fc3ac45257c5e647b5defb26e5155640e20549"
+          }
+        },
+        {
+          "client_id": "257657970017-971b30o9g9g6o6e2d1cl94ht0t2868hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38pWZ34e-zpVTWgKU7huAxNw8QSDAwog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257657970017-971b30o9g9g6o6e2d1cl94ht0t2868hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
