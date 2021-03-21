@@ -418,14 +418,14 @@ class _NewSignUpPageState extends State<NewSignUpPage> {
   }
 
   String liveValidation(String password) {
-    if (password == null) return "Password should not be empty".tr();
-    if (password.length < 8) return "Password atleast 8 characters".tr();
+    if (password == null) return "Password should not be empty";
+    if (password.length < 8) return "Password atleast 8 characters";
     if (!password.contains(RegExp(r'[A-Z]')))
-      return "should contains atleast captial letter".tr();
+      return "should contains atleast captial letter";
     if (!password.contains(RegExp(r'[a-z]')))
-      return "should contains atleast small letter".tr();
+      return "should contains atleast small letter";
     if (!password.contains(RegExp(r'[0-9]')))
-      return "should contains atleast number letter".tr();
+      return "should contains atleast number letter";
 
     return null;
   }
